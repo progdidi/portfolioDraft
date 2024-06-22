@@ -1,3 +1,41 @@
 @import 'global';
 @import 'var';
 @import 'reset';
+
+.header {
+}
+.container {
+}
+.main {
+}
+.works {
+    background-color: #c39494;
+    padding: 40px 0;
+}
+.works__title {
+    color: #fff;
+}
+.section__title {
+    font-size: 42px;
+    line-height: 48px;
+    margin-bottom: 30px;
+}
+.works__inner {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    overflow: hidden;
+}
+.works__item {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 356px;
+}
+.works__item-img {
+    margin-bottom: 20px;
+}
+.works__item-descr {
+}
+.footer {
+}
